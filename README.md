@@ -9,3 +9,4 @@ Clone the repository and run bundle install. Be sure to create a .env file. The 
 
 # Note
 It's a good idea to set up your user.email and user.name in your Git Config.
+But seriously. It is.
